@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="translations">
+    <file>Uebersetzung_de.qm</file>
+  </qresource>
+  <qresource prefix="raetsel">
+    <file>raetsel/easy_02.txt</file>
+    <file>raetsel/easy_01.txt</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/pairs.png</file>
+    <file>icons/tripple.png</file>
+    <file>icons/leer.png</file>
+    <file>icons/01.png</file>
+    <file>icons/02.png</file>
+    <file>icons/03.png</file>
+    <file>icons/04.png</file>
+    <file>icons/05.png</file>
+    <file>icons/06.png</file>
+    <file>icons/07.png</file>
+    <file>icons/08.png</file>
+    <file>icons/09.png</file>
+    <file>icons/blue.png</file>
+    <file>icons/cyan.png</file>
+    <file>icons/green.png</file>
+    <file>icons/magenta.png</file>
+    <file>icons/red.png</file>
+    <file>icons/yellow.png</file>
+  </qresource>
+</RCC>
